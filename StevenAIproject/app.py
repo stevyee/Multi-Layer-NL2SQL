@@ -208,14 +208,14 @@ if "db_overview" not in st.session_state:
 
 if "connection_settings" not in st.session_state:
     st.session_state.connection_settings = {
-        "ssh_address": "52.74.219.215",
-        "ssh_port": 22,
-        "ssh_username": "ec2-user",
-        "remote_bind_address": "loco-erp-dbinstance.cf8ccanlhjrl.ap-east-1.rds.amazonaws.com",
-        "remote_bind_port": 3306,
-        "db_user": "steven",
-        "db_password": "p94oha6yFmr_nKDq",
-        "db_name": "locoerp"
+        "ssh_address": "your address",
+        "ssh_port": xx,
+        "ssh_username": "your name",
+        "remote_bind_address": "your address",
+        "remote_bind_port": your port,
+        "db_user": "your name",
+        "db_password": "your passport",
+        "db_name": "your name"
     }
 
 def compile_and_run(code: str) -> str:
