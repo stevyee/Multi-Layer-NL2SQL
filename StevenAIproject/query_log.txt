@@ -1,0 +1,19 @@
+[2025-03-25 10:58:37] Original: "what is the peak hour near location 22.444499410988776, 114.17040902312128(no more than 2km)", Processed: "what is the peak hour near location 22.444499410988776, 114.17040902312128(no more than 2km)"
+[2025-03-25 10:59:32] Original: "what is the peak hour near Tai Po Metro Station(no more than 2km)?", Processed: "what 22.444499, 114.170409(no more than 2km)?"
+[2025-03-25 11:00:24] Original: "what is the peak hour near Tai Po Metro Station(no more than 2km)?", Processed: "what 22.444499, 114.170409(no more than 2km)?"
+[2025-03-25 11:01:19] Original: "what is the peak hour near Tai Po Metro Station(no more than 2km)?", Processed: "what 22.444499, 114.170409(no more than 2km)?"
+[2025-03-25 11:03:41] Original: "what is the peak hour near Tai Po Metro Station(no more than 2km)?", Processed: "what 22.444499, 114.170409(no more than 2km)?"
+[2025-03-25 11:06:37] Original: "what is the peak hour near location 22.444499410988776, 114.17040902312128(no more than 2km)", Processed: "what is the peak hour near location 22.444499410988776, 114.17040902312128(no more than 2km)"
+[2025-03-25 11:13:25] Original: "what is the peak hour near Tai Po Metro Station(no more than 2km)? make sure you give me the result in date time", Processed: "what 22.444499, 114.170409(no more than 2km)? make sure you give me the result in date time"
+[2025-03-25 11:15:27] Original: "what is the peak hour near Tai Po(no more than 2km)? make sure you give me the result in date time", Processed: "what is the peak hour near Tai Po(no more than 2km)? make sure you give me the result in date time"
+[2025-03-25 11:19:29] Original: "what is the peak hour near Tai Po(no more than 2km)? make sure you give me the result in date time", Processed: "what is the peak hour near Tai Po(no more than 2km)? make sure you give me the result in date time"
+[2025-03-25 11:20:24] Original: "what is the peak hour near Tai Po Metro Station(no more than 2km)? make sure you give me the result in datetime", Processed: "what 22.444499, 114.170409(no more than 2km)? make sure you give me the result in datetime"
+[2025-03-25 11:25:29] Original: "what is the peak hour near Tai Po Metro Station(no more than 2km)? make sure you give me the result in datetime", Processed: "what 22.444499, 114.170409(no more than 2km)? make sure you give me the result in datetime"
+[2025-03-25 11:31:36] Original: "what is the peak hour near Tai Po Metro Station(no more than 2km)? make sure you give me the result in datetime
+
+", Processed: "what 22.444499, 114.170409(no more than 2km)? make sure you give me the result in datetime
+
+"
+[2025-03-25 12:54:41] Original: "what is the peak hour near Tai Po Metro Station(no more than 2km)?", Processed: "['Tai Po Metro Station']"
+[2025-03-27 00:43:30] Original: "what is the peak hour near location Tai Po Metro Station(no more than 2 km)?", Processed: "['Tai Po Metro Station']"
+[2025-03-27 09:52:34] Original: "what is the peak hour at location Tai Po Metro Station(no more than 2 km)?", Processed: "['Tai Po Metro Station']"

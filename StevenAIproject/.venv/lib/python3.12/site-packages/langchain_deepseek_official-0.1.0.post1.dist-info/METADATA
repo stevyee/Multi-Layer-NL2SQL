@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: langchain-deepseek-official
+Version: 0.1.0.post1
+Summary: An integration package connecting DeepSeek and LangChain
+Home-page: https://github.com/langchain-ai/langchain
+License: MIT
+Requires-Python: >=3.9,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Requires-Dist: langchain-core (>=0.3.15,<0.4.0)
+Requires-Dist: langchain-openai (>=0.3.3,<0.4.0)
+Project-URL: Repository, https://github.com/langchain-ai/langchain
+Project-URL: Release Notes, https://github.com/langchain-ai/langchain/releases?q=tag%3A%22deepseek%3D%3D0%22&expanded=true
+Project-URL: Source Code, https://github.com/langchain-ai/langchain/tree/master/libs/partners/deepseek
+Description-Content-Type: text/markdown
+
+# langchain-deepseek-official
+
+This package has been deprecated in favor of `langchain-deepseek`
+
+Please install that one with:
+
+```bash
+pip install -U langchain-deepseek
+```
